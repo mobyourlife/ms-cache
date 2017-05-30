@@ -1,0 +1,17 @@
+{
+  "name": "ms-cache",
+  "version": "5.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:mobyourlife/ms-cache.git",
+  "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
+  "dependencies": {
+    "@mobyourlife/amqp-wrapper": "^5.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
