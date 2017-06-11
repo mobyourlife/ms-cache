@@ -1,6 +1,7 @@
 {
   "name": "ms-cache",
   "version": "5.0.0",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
